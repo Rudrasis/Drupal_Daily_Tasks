@@ -1,0 +1,5 @@
+name = dcm_registration
+description = Registration form for Drupal camp 2015
+package = Custom form creation
+core = 7.x
+files[] = dcm_registration.module
